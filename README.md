@@ -32,4 +32,4 @@ PyGame-based real-time visualization: `env.render()`
 - Reward: Comfort, AC penalty, light penalty
 
 ## License
-MIT 
+Personal
