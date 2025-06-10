@@ -1,3 +1,4 @@
+![Gif](https://github.com/user-attachments/assets/9f426fad-823e-45b7-b589-aaa5a63ed0cb)
 
 
 # SmartClimate RL
