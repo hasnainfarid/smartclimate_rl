@@ -1,3 +1,6 @@
+
+![Katana_GF76GF66_BB_Wallpaper_Preload_3840x2160](https://github.com/user-attachments/assets/1ee01646-e66f-4ba4-b77f-585e0251d057)
+
 # SmartClimate RL
 
 A production-ready Gymnasium environment for smart HVAC and lighting control, with RLlib integration and PyGame visualization.
