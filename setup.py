@@ -4,7 +4,7 @@ setup(
     name='smartclimate_rl',
     version='0.1.0',
     description='SmartClimate RL Environment for HVAC Control',
-    author='Your Name',
+    author='Hasnain Fareed',
     packages=find_packages(),
     install_requires=[
         'gymnasium',
